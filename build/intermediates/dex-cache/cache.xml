@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\GOHACKATON\Kodingan\Outsorce\AndroidLoginRegistration\client\TraiNFCWRITE\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ac822d8dad4726e1e0a40bd670fdabc118c5aac">
+        <dex dex="E:\GOHACKATON\Kodingan\Outsorce\AndroidLoginRegistration\client\TraiNFCWRITE\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6881cfc4fb7256102c743bbdf6adf9302dcbb5cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GOHACKATON\Kodingan\Outsorce\AndroidLoginRegistration\client\TraiNFCWRITE\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\GOHACKATON\Kodingan\Outsorce\AndroidLoginRegistration\client\TraiNFCWRITE\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6eacf6adfabe876ca8bac047263fb69a67f537d4\classes.dex" />
+    </item>
+
+</items>
